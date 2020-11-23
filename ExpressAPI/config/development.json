@@ -1,0 +1,5 @@
+{
+  "db": "mongodb://affan:GAtmlhrwj3hrXafH@mobileworld-shard-00-00.mwjdc.azure.mongodb.net:27017,mobileworld-shard-00-01.mwjdc.azure.mongodb.net:27017,mobileworld-shard-00-02.mwjdc.azure.mongodb.net:27017/movie_db?ssl=true&replicaSet=atlas-griyul-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "JWT_PRIVATE_KEY": "pushandpop",
+  "PORT": 8080
+}
